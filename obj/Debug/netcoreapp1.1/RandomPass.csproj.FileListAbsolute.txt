@@ -1,0 +1,8 @@
+/Applications/C#/RandomPass/bin/Debug/netcoreapp1.1/RandomPass.deps.json
+/Applications/C#/RandomPass/bin/Debug/netcoreapp1.1/RandomPass.runtimeconfig.json
+/Applications/C#/RandomPass/bin/Debug/netcoreapp1.1/RandomPass.runtimeconfig.dev.json
+/Applications/C#/RandomPass/bin/Debug/netcoreapp1.1/RandomPass.dll
+/Applications/C#/RandomPass/bin/Debug/netcoreapp1.1/RandomPass.pdb
+/Applications/C#/RandomPass/obj/Debug/netcoreapp1.1/RandomPass.AssemblyInfo.cs
+/Applications/C#/RandomPass/obj/Debug/netcoreapp1.1/RandomPass.dll
+/Applications/C#/RandomPass/obj/Debug/netcoreapp1.1/RandomPass.pdb
